@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1759a446_002D6dc7_002D467a_002D82a5_002D091bee09ea29/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetCategoriesListTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::DF4889D6-EAB2-4314-8041-1872BE29B655::net5.0::GloboTicket.TicketManagement.Application.UnitTests.Categories.Queries.GetCategoriesListQueryHandlerTest.GetCategoriesListTest&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::DF4889D6-EAB2-4314-8041-1872BE29B655::net5.0::GloboTicket.TicketManagement.Application.UnitTests.Categories.Commands.CreateCategoryTests.Handle_ValidCategory_AddedToCategoriesRepo&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
